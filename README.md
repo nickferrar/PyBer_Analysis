@@ -13,11 +13,11 @@ When looking at the summary data, we can see that while the average fare per rid
 the company is much greater. The inverse is true for rural areas in that the average fare per ride is very high, there is simply not as much demand so the overall revenue is much
 lower. Suburban areas are in the middle of these two extremes.
 
-![Summary Dataframe](Summary_DF.PNG)
+
 
 This can be visualized better with the multiple line graph produced here that shows total revenue vs time for each of the 3 city types.
 
-![Line Graph](Challenge_2_Deliverable.png)
+
 
 # Summary:
 
